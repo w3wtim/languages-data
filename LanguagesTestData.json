@@ -1,0 +1,543 @@
+{
+  "coordinates": { "lng": -1.246491, "lat" : 51.751226 },
+  "square": {
+    "southwest" : { "lng": -1.246513, "lat": 51.751213 },
+    "northeast" : { "lng" : -1.24647, "lat" : 51.75124 }
+  },
+  "country": "GB",
+  "nearestPlace": "Oxford, Oxon.",
+  "languages": [
+      {
+        "nativeName": "Deutsch",
+        "code": "de",
+        "defaultCode": "de",
+        "name": "German",
+        "words": "nationalität.börse.spuren",
+        "map": "https://w3w.co/nationalit%C3%A4t.b%C3%B6rse.spuren"
+      },
+      {
+        "nativeName": "हिन्दी",
+        "code": "hi",
+        "defaultCode": "hi",
+        "name": "Hindi",
+        "words": "उपभोग.उतरे.मंच",
+        "map": "https://w3w.co/%E0%A4%89%E0%A4%AA%E0%A4%AD%E0%A5%8B%E0%A4%97.%E0%A4%89%E0%A4%A4%E0%A4%B0%E0%A5%87.%E0%A4%AE%E0%A4%82%E0%A4%9A"
+      },
+      {
+        "nativeName": "Português",
+        "code": "pt",
+        "defaultCode": "pt",
+        "name": "Portuguese",
+        "words": "focalizar.frear.sondagens",
+        "map": "https://w3w.co/focalizar.frear.sondagens"
+      },
+      {
+        "nativeName": "Magyar",
+        "code": "hu",
+        "defaultCode": "hu",
+        "name": "Hungarian",
+        "words": "eladás.göndör.tekint",
+        "map": "https://w3w.co/elad%C3%A1s.g%C3%B6nd%C3%B6r.tekint"
+      },
+      {
+        "nativeName": "Українська",
+        "code": "uk",
+        "defaultCode": "uk",
+        "name": "Ukrainian",
+        "words": "горіхова.згадане.вітрини",
+        "map": "https://w3w.co/%D0%B3%D0%BE%D1%80%D1%96%D1%85%D0%BE%D0%B2%D0%B0.%D0%B7%D0%B3%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5.%D0%B2%D1%96%D1%82%D1%80%D0%B8%D0%BD%D0%B8"
+      },
+      {
+        "nativeName": "Bahasa Indonesia",
+        "code": "id",
+        "defaultCode": "id",
+        "name": "Bahasa Indonesia",
+        "words": "menjabat.kemejaku.penyatu",
+        "map": "https://w3w.co/menjabat.kemejaku.penyatu"
+      },
+      {
+        "nativeName": "اردو",
+        "code": "ur",
+        "defaultCode": "ur",
+        "name": "Urdu",
+        "words": "چھتوں.نقشے.کنکری",
+        "map": "https://w3w.co/%DA%86%DA%BE%D8%AA%D9%88%DA%BA.%D9%86%D9%82%D8%B4%DB%92.%DA%A9%D9%86%DA%A9%D8%B1%DB%8C"
+      },
+      {
+        "nativeName": "മലയാളം",
+        "code": "ml",
+        "defaultCode": "ml",
+        "name": "Malayalam",
+        "words": "ഇണങ്ങി.മിഴി.എഴുതിയ",
+        "map": "https://w3w.co/%E0%B4%87%E0%B4%A3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%BF.%E0%B4%AE%E0%B4%BF%E0%B4%B4%E0%B4%BF.%E0%B4%8E%E0%B4%B4%E0%B5%81%E0%B4%A4%E0%B4%BF%E0%B4%AF"
+      },
+      {
+        "nativeName": "Mонгол",
+        "code": "mn",
+        "defaultCode": "mn",
+        "name": "Mongolian",
+        "words": "бэлчир.зорчих.гууль",
+        "map": "https://w3w.co/%D0%B1%D1%8D%D0%BB%D1%87%D0%B8%D1%80.%D0%B7%D0%BE%D1%80%D1%87%D0%B8%D1%85.%D0%B3%D1%83%D1%83%D0%BB%D1%8C"
+      },
+      {
+        "nativeName": "Mонгол",
+        "code": "mn_cy",
+        "defaultCode": "mn",
+        "name": "Mongolian (Cyrillic)",
+        "words": "бэлчир.зорчих.гууль",
+        "locale": "mn_cy",
+        "map": "https://w3w.co/%D0%B1%D1%8D%D0%BB%D1%87%D0%B8%D1%80.%D0%B7%D0%BE%D1%80%D1%87%D0%B8%D1%85.%D0%B3%D1%83%D1%83%D0%BB%D1%8C"
+     },
+     {
+      "nativeName": "Mонгол",
+      "code": "mn_la",
+       "defaultCode": "mn",
+      "name": "Mongolian (Latin)",
+      "words": "belchir.zorchih.guuli",
+      "locale": "mn_la",
+      "map": "https://w3w.co/belchir.zorchih.guuli",
+      "defaultLocale": "mn_la"
+     },
+      {
+        "nativeName": "Afrikaans",
+        "code": "af",
+        "defaultCode": "af",
+        "name": "Afrikaans",
+        "words": "nagvlug.gekry.grootste",
+        "map": "https://w3w.co/nagvlug.gekry.grootste"
+      },
+      {
+        "nativeName": "मराठी",
+        "code": "mr",
+        "defaultCode": "mr",
+        "name": "Marathi (Marāṭhī)",
+        "words": "गिरविणे.हिरवीगार.जपलेला",
+        "map": "https://w3w.co/%E0%A4%97%E0%A4%BF%E0%A4%B0%E0%A4%B5%E0%A4%BF%E0%A4%A3%E0%A5%87.%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A4%B5%E0%A5%80%E0%A4%97%E0%A4%BE%E0%A4%B0.%E0%A4%9C%E0%A4%AA%E0%A4%B2%E0%A5%87%E0%A4%B2%E0%A4%BE"
+      },
+      {
+        "nativeName": "Bahasa Malaysia",
+        "code": "ms",
+        "defaultCode": "ms",
+        "name": "Bahasa Malayia",
+        "words": "praktikal.serkup.berputik",
+        "map": "https://w3w.co/praktikal.serkup.berputik"
+      },
+      {
+        "nativeName": "Ελληνικά",
+        "code": "el",
+        "defaultCode": "el",
+        "name": "Greek",
+        "words": "έσωζα.κερνά.κουρεία",
+        "map": "https://w3w.co/%CE%AD%CF%83%CF%89%CE%B6%CE%B1.%CE%BA%CE%B5%CF%81%CE%BD%CE%AC.%CE%BA%CE%BF%CF%85%CF%81%CE%B5%CE%AF%CE%B1"
+      },
+      {
+        "nativeName": "English",
+        "code": "en",
+        "defaultCode": "en",
+        "name": "English",
+        "words": "fingernails.inches.bake",
+        "map": "https://w3w.co/fingernails.inches.bake"
+      },
+      {
+        "nativeName": "Italiano",
+        "code": "it",
+        "defaultCode": "it",
+        "name": "Italian",
+        "words": "consolata.ornamenti.esagono",
+        "map": "https://w3w.co/consolata.ornamenti.esagono"
+      },
+      {
+        "nativeName": "አማርኛ",
+        "code": "am",
+        "defaultCode": "am",
+        "name": "Amharic",
+        "words": "ማራባት.ቀለም.ማከሚያ",
+        "map": "https://w3w.co/%E1%88%9B%E1%88%AB%E1%89%A3%E1%89%B5.%E1%89%80%E1%88%88%E1%88%9D.%E1%88%9B%E1%8A%A8%E1%88%9A%E1%8B%AB"
+      },
+      {
+        "nativeName": "Español",
+        "code": "es",
+        "defaultCode": "es",
+        "name": "Spanish",
+        "words": "formaba.silla.posa",
+        "map": "https://w3w.co/formaba.silla.posa"
+      },
+      {
+        "nativeName": "中文",
+        "code": "zh",
+        "defaultCode": "zh",
+        "name": "Chinese",
+        "words": "休假.学派.中等",
+        "map": "https://w3w.co/%E4%BC%91%E5%81%87.%E5%AD%A6%E6%B4%BE.%E4%B8%AD%E7%AD%89"
+      },
+      {
+        "nativeName": "中文",
+        "code": "zh_si",
+        "defaultCode": "zh",
+        "name": "Chinese (Simplified)",
+        "words": "休假.学派.中等",
+        "locale": "zh_si",
+        "map": "https://w3w.co/%E4%BC%91%E5%81%87.%E5%AD%A6%E6%B4%BE.%E4%B8%AD%E7%AD%89"
+      },
+      {
+        "nativeName": "中文",
+        "code": "zh_tr",
+        "defaultCode": "zh",
+        "name": "Chinese (Traditional)",
+        "words": "休假.學派.中等",
+        "locale": "zh_tr",
+        "map": "https://w3w.co/%E4%BC%91%E5%81%87.%E5%AD%B8%E6%B4%BE.%E4%B8%AD%E7%AD%89",
+        "defaultLocale": "zh_tr"
+      },
+      {
+        "nativeName": "العربية",
+        "code": "ar",
+        "defaultCode": "ar",
+        "name": "Arabic",
+        "words": "قوالب.أخبار.كوب",
+        "map": "https://w3w.co/%D9%82%D9%88%D8%A7%D9%84%D8%A8.%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1.%D9%83%D9%88%D8%A8"
+      },
+      {
+        "nativeName": "Tiếng Việt",
+        "code": "vi",
+        "defaultCode": "vi",
+        "name": "Vietnamese",
+        "words": "ca tụng.màu be.đèn đỏ",
+        "map": "https://w3w.co/ca+t%E1%BB%A5ng.m%C3%A0u+be.%C4%91%C3%A8n+%C4%91%E1%BB%8F"
+      },
+      {
+        "nativeName": "日本語",
+        "code": "ja",
+        "defaultCode": "ja",
+        "name": "Japanese",
+        "words": "ほうせき。つたえる。しょり",
+        "map": "https://w3w.co/%E3%81%BB%E3%81%86%E3%81%9B%E3%81%8D%E3%80%82%E3%81%A4%E3%81%9F%E3%81%88%E3%82%8B%E3%80%82%E3%81%97%E3%82%87%E3%82%8A"
+      },
+      {
+        "nativeName": "नेपाली",
+        "code": "ne",
+        "defaultCode": "ne",
+        "name": "Nepali",
+        "words": "मोतीमा.केलाएर.मिल्दछ",
+        "map": "https://w3w.co/%E0%A4%AE%E0%A5%8B%E0%A4%A4%E0%A5%80%E0%A4%AE%E0%A4%BE.%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%8F%E0%A4%B0.%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%A6%E0%A4%9B"
+      },
+      {
+        "nativeName": "Persian",
+        "code": "fa",
+        "defaultCode": "fa",
+        "name": "Persian",
+        "words": "نشستیم.ژاله.ننویسم",
+        "map": "https://w3w.co/%D9%86%D8%B4%D8%B3%D8%AA%DB%8C%D9%85.%DA%98%D8%A7%D9%84%D9%87.%D9%86%D9%86%D9%88%DB%8C%D8%B3%D9%85"
+      },
+      {
+        "nativeName": "isiZulu",
+        "code": "zu",
+        "defaultCode": "zu",
+        "name": "Zulu",
+        "words": "uzogqama.sadlula.theza",
+        "map": "https://w3w.co/uzogqama.sadlula.theza"
+      },
+      {
+        "nativeName": "Română",
+        "code": "ro",
+        "defaultCode": "ro",
+        "name": "Romanian",
+        "words": "măsurat.dulceață.plajă",
+        "map": "https://w3w.co/m%C4%83surat.dulcea%C8%9B%C4%83.plaj%C4%83"
+      },
+      {
+        "nativeName": "Nederlands",
+        "code": "nl",
+        "defaultCode": "nl",
+        "name": "Dutch",
+        "words": "pitloos.vonken.bruid",
+        "map": "https://w3w.co/pitloos.vonken.bruid"
+      },
+      {
+        "nativeName": "Norsk",
+        "code": "no",
+        "defaultCode": "no",
+        "name": "Norwegian",
+        "words": "nedlagt.rekesalat.høyere",
+        "map": "https://w3w.co/nedlagt.rekesalat.h%C3%B8yere"
+      },
+      {
+        "nativeName": "Suomi",
+        "code": "fi",
+        "defaultCode": "fi",
+        "name": "Finnish",
+        "words": "kataja.menestys.vain",
+        "map": "https://w3w.co/kataja.menestys.vain"
+      },
+      {
+        "nativeName": "Русский",
+        "code": "ru",
+        "defaultCode": "ru",
+        "name": "Russian",
+        "words": "подол.ведомство.пенсия",
+        "map": "https://w3w.co/%D0%BF%D0%BE%D0%B4%D0%BE%D0%BB.%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE.%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D1%8F"
+      },
+      {
+        "nativeName": "български",
+        "code": "bg",
+        "defaultCode": "bg",
+        "name": "Bulgarian",
+        "words": "хитове.мазилка.джобове",
+        "map": "https://w3w.co/%D1%85%D0%B8%D1%82%D0%BE%D0%B2%D0%B5.%D0%BC%D0%B0%D0%B7%D0%B8%D0%BB%D0%BA%D0%B0.%D0%B4%D0%B6%D0%BE%D0%B1%D0%BE%D0%B2%D0%B5"
+      },
+      {
+        "nativeName": "বাংলা",
+        "code": "bn",
+        "defaultCode": "bn",
+        "name": "Bengali",
+        "words": "ইক্ষু.সাম্য.লালে",
+        "map": "https://w3w.co/%E0%A6%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81.%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AF.%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87"
+      },
+      {
+        "nativeName": "Français",
+        "code": "fr",
+        "defaultCode": "fr",
+        "name": "French",
+        "words": "banalité.émetteur.privative",
+        "map": "https://w3w.co/banalit%C3%A9.%C3%A9metteur.privative"
+      },
+      {
+        "nativeName": "Slovenčina",
+        "code": "sk",
+        "defaultCode": "sk",
+        "name": "Slovak",
+        "words": "potápať.víťaziť.ohrada",
+        "map": "https://w3w.co/pot%C3%A1pa%C5%A5.v%C3%AD%C5%A5azi%C5%A5.ohrada"
+      },
+      {
+        "nativeName": "ಕನ್ನಡ",
+        "code": "kn",
+        "defaultCode": "kn",
+        "name": "Kannada",
+        "words": "ಪೂರ್ಣಿಮೆ.ತಿಳುವಳಿಕೆ.ತೋರಣ",
+        "map": "https://w3w.co/%E0%B2%AA%E0%B3%82%E0%B2%B0%E0%B3%8D%E0%B2%A3%E0%B2%BF%E0%B2%AE%E0%B3%86.%E0%B2%A4%E0%B2%BF%E0%B2%B3%E0%B3%81%E0%B2%B5%E0%B2%B3%E0%B2%BF%E0%B2%95%E0%B3%86.%E0%B2%A4%E0%B3%8B%E0%B2%B0%E0%B2%A3"
+      },
+      {
+        "nativeName": "ଓଡ଼ିଆ",
+        "code": "or",
+        "defaultCode": "or",
+        "name": "Oriya",
+        "words": "ପିଆନୋ.ଦାନରେ.ଏବେ",
+        "map": "https://w3w.co/%E0%AC%AA%E0%AC%BF%E0%AC%86%E0%AC%A8%E0%AD%8B.%E0%AC%A6%E0%AC%BE%E0%AC%A8%E0%AC%B0%E0%AD%87.%E0%AC%8F%E0%AC%AC%E0%AD%87"
+      },
+      {
+        "nativeName": "Svenska",
+        "code": "sv",
+        "defaultCode": "sv",
+        "name": "Swedish",
+        "words": "biograf.avkoda.skina",
+        "map": "https://w3w.co/biograf.avkoda.skina"
+      },
+      {
+        "nativeName": "한국어",
+        "code": "ko",
+        "defaultCode": "ko",
+        "name": "Korean",
+        "words": "명예.중년.현관문",
+        "map": "https://w3w.co/%EB%AA%85%EC%98%88.%EC%A4%91%EB%85%84.%ED%98%84%EA%B4%80%EB%AC%B8"
+      },
+      {
+        "nativeName": "Kiswahili",
+        "code": "sw",
+        "defaultCode": "sw",
+        "name": "Swahili",
+        "words": "anatuma.nikamwambia.kalika",
+        "map": "https://w3w.co/anatuma.nikamwambia.kalika"
+      },
+      {
+        "nativeName": "தமிழ்",
+        "code": "ta",
+        "defaultCode": "ta",
+        "name": "Tamil",
+        "words": "உத்வேகம்.முன்வரை.மானிட",
+        "map": "https://w3w.co/%E0%AE%89%E0%AE%A4%E0%AF%8D%E0%AE%B5%E0%AF%87%E0%AE%95%E0%AE%AE%E0%AF%8D.%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AF%88.%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AE%BF%E0%AE%9F"
+      },
+      {
+        "nativeName": "ગુજરાતી",
+        "code": "gu",
+        "defaultCode": "gu",
+        "name": "Gujarati",
+        "words": "ડોકિયું.સર્વજ્ઞ.રાહી",
+        "map": "https://w3w.co/%E0%AA%A1%E0%AB%8B%E0%AA%95%E0%AA%BF%E0%AA%AF%E0%AB%81%E0%AA%82.%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AA%9C%E0%AB%8D%E0%AA%9E.%E0%AA%B0%E0%AA%BE%E0%AA%B9%E0%AB%80"
+      },
+      {
+        "nativeName": "Čeština",
+        "code": "cs",
+        "defaultCode": "cs",
+        "name": "Czech",
+        "words": "sledovat.klidní.prací",
+        "map": "https://w3w.co/sledovat.klidn%C3%AD.prac%C3%AD"
+      },
+      {
+        "nativeName": "isiXhosa",
+        "code": "xh",
+        "defaultCode": "xh",
+        "name": "Xhosa",
+        "words": "uyacikoza.inokuba.egoso",
+        "map": "https://w3w.co/uyacikoza.inokuba.egoso"
+      },
+      {
+        "nativeName": "ਪੰਜਾਬੀ",
+        "code": "pa",
+        "defaultCode": "pa",
+        "name": "Panjabi, Punjabi",
+        "words": "ਢਾਬਾ.ਹਮਰਾਹੀ.ਲਮਕਣੇ",
+        "map": "https://w3w.co/%E0%A8%A2%E0%A8%BE%E0%A8%AC%E0%A8%BE.%E0%A8%B9%E0%A8%AE%E0%A8%B0%E0%A8%BE%E0%A8%B9%E0%A9%80.%E0%A8%B2%E0%A8%AE%E0%A8%95%E0%A8%A3%E0%A9%87"
+      },
+      {
+        "nativeName": "తెలుగు",
+        "code": "te",
+        "defaultCode": "te",
+        "name": "Telugu",
+        "words": "అన్వయం.గాలింపు.నటీమణి",
+        "map": "https://w3w.co/%E0%B0%85%E0%B0%A8%E0%B1%8D%E0%B0%B5%E0%B0%AF%E0%B0%82.%E0%B0%97%E0%B0%BE%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%AA%E0%B1%81.%E0%B0%A8%E0%B0%9F%E0%B1%80%E0%B0%AE%E0%B0%A3%E0%B0%BF"
+      },
+      {
+        "nativeName": "ไทย",
+        "code": "th",
+        "defaultCode": "th",
+        "name": "Thai",
+        "words": "ร่วมกัน.ชินชา.ข่า",
+        "map": "https://w3w.co/%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99.%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B2.%E0%B8%82%E0%B9%88%E0%B8%B2"
+      },
+      {
+        "nativeName": "Cymraeg",
+        "code": "cy",
+        "defaultCode": "cy",
+        "name": "Welsh",
+        "words": "prysurdeb.eisteddwch.heddlu",
+        "map": "https://w3w.co/prysurdeb.eisteddwch.heddlu"
+      },
+      {
+        "nativeName": "Polski",
+        "code": "pl",
+        "defaultCode": "pl",
+        "name": "Polish",
+        "words": "rogaliki.zawołać.witryny",
+        "map": "https://w3w.co/rogaliki.zawo%C5%82a%C4%87.witryny"
+      },
+      {
+        "nativeName": "Dansk",
+        "code": "da",
+        "defaultCode": "da",
+        "name": "Danish",
+        "words": "plette.kapløb.kælder",
+        "map": "https://w3w.co/plette.kapl%C3%B8b.k%C3%A6lder"
+      },
+      {
+        "nativeName": "עברית",
+        "code": "he",
+        "defaultCode": "he",
+        "name": "Hebrew (modern)",
+        "words": "מצטיין.ההליכה.מגש",
+        "map": "https://w3w.co/%D7%9E%D7%A6%D7%98%D7%99%D7%99%D7%9F.%D7%94%D7%94%D7%9C%D7%99%D7%9B%D7%94.%D7%9E%D7%92%D7%A9"
+      },
+      {
+        "nativeName": "Türkçe",
+        "code": "tr",
+        "defaultCode": "tr",
+        "name": "Turkish",
+        "words": "resmiyet.uçuş.tavır",
+        "map": "https://w3w.co/resmiyet.u%C3%A7u%C5%9F.tav%C4%B1r"
+      },
+      {
+        "nativeName": "ພາສາລາວ",
+        "code": "lo",
+        "defaultCode": "lo",
+        "name": "Lao",
+        "words": "ຢືນອີງຝາ.ຄວາມໂຊກດີ.ລູກຊາຍ",
+        "map": "https://w3w.co/%E0%BA%A2%E0%BA%B7%E0%BA%99%E0%BA%AD%E0%BA%B5%E0%BA%87%E0%BA%9D%E0%BA%B2.%E0%BA%84%E0%BA%A7%E0%BA%B2%E0%BA%A1%E0%BB%82%E0%BA%8A%E0%BA%81%E0%BA%94%E0%BA%B5.%E0%BA%A5%E0%BA%B9%E0%BA%81%E0%BA%8A%E0%BA%B2%E0%BA%8D"
+      },
+      {
+        "nativeName": "Català",
+        "code": "ca",
+        "defaultCode": "ca",
+        "name": "Catalan; Valencian",
+        "words": "plaent.entitat.sensació",
+        "map": "https://w3w.co/plaent.entitat.sensaci%C3%B3"
+      },
+      {
+        "nativeName": "ភាសាខ្មែរ",
+        "code": "km",
+        "defaultCode": "km",
+        "name": "Khmer",
+        "words": "ដរាបណា.ចន្ទាស.ស្រួល",
+        "map": "https://w3w.co/%E1%9E%8A%E1%9E%9A%E1%9E%B6%E1%9E%94%E1%9E%8E%E1%9E%B6.%E1%9E%85%E1%9E%93%E1%9F%92%E1%9E%91%E1%9E%B6%E1%9E%9F.%E1%9E%9F%E1%9F%92%E1%9E%9A%E1%9E%BD%E1%9E%9B"
+      },
+      {
+        "nativeName": "Eesti",
+        "code": "et",
+        "defaultCode": "et",
+        "name": "Estonian",
+        "words": "küpsised.koomik.kombain",
+        "map": "https://w3w.co/k%C3%BCpsised.koomik.kombain"
+      },
+      {
+        "nativeName": "සිංහල",
+        "code": "si",
+        "defaultCode": "si",
+        "name": "Sinhala",
+        "words": "කණපිට.එළවීම.රකිනවා",
+        "map": "https://w3w.co/%E0%B6%9A%E0%B6%AB%E0%B6%B4%E0%B7%92%E0%B6%A7.%E0%B6%91%E0%B7%85%E0%B7%80%E0%B7%93%E0%B6%B8.%E0%B6%BB%E0%B6%9A%E0%B7%92%E0%B6%B1%E0%B7%80%E0%B7%8F"
+      },
+      {
+        "nativeName": "Bosanski-Crnogorski-Hrvatski-Srpski (beta)",
+        "code": "oo",
+        "defaultCode": "oo",
+        "name": "Bosnian-Croatian-Montenegrin-Serbian",
+        "words": "skloniti.dodatna.zabaviti",
+        "map": "https://w3w.co/skloniti.dodatna.zabaviti"
+      },
+      {
+        "nativeName": "Bosanski-Crnogorski-Hrvatski-Srpski (beta)",
+        "code": "oo_la",
+        "defaultCode": "oo",
+        "name": "Bosnian-Croatian-Montenegrin-Serbian (Latin)",
+        "words": "skloniti.dodatna.zabaviti",
+        "locale": "oo_la",
+        "map": "https://w3w.co/skloniti.dodatna.zabaviti"
+      },
+      {
+        "nativeName": "Bosanski-Crnogorski-Hrvatski-Srpski (beta)",
+        "code": "oo_cy",
+        "defaultCode": "oo",
+        "name": "Bosnian-Croatian-Montenegrin-Serbian (Cyrillic)",
+        "words": "склонити.додатна.забавити",
+        "locale": "oo_cy",
+        "defaultLocale": "oo_cy",
+        "map": "https://w3w.co/%D1%81%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D1%82%D0%B8.%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BD%D0%B0.%D0%B7%D0%B0%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D0%B8"
+      },
+    {
+      "nativeName": "Қазақ тілі",
+      "code": "kk",
+      "defaultCode": "kk",
+      "name": "Kazakh",
+      "words": "сөздіктер.кілттер.сөзбен",
+      "map": "https://w3w.co/%D1%81%D3%A9%D0%B7%D0%B4%D1%96%D0%BA%D1%82%D0%B5%D1%80.%D0%BA%D1%96%D0%BB%D1%82%D1%82%D0%B5%D1%80.%D1%81%D3%A9%D0%B7%D0%B1%D0%B5%D0%BD"
+    },
+    {
+      "nativeName": "Qazaq tılı (Latin)",
+      "code": "kk_la",
+      "defaultCode": "kk",
+      "name": "Kazakh (Latin)",
+      "words": "sözdıkter.kıltter.sözben",
+      "locale": "kk_la",
+      "defaultLocale": "kk_la",
+      "map": "https://w3w.co/s%C3%B6zd%C4%B1kter.k%C4%B1ltter.s%C3%B6zben"
+    },
+    {
+      "nativeName": "Қазақ тілі (Кириллица)",
+      "code": "kk_cy",
+      "defaultCode": "kk",
+      "name": "Kazakh (Cyrillic)",
+      "words": "сөздіктер.кілттер.сөзбен",
+      "locale": "kk_cy",
+      "map": "https://w3w.co/%D1%81%D3%A9%D0%B7%D0%B4%D1%96%D0%BA%D1%82%D0%B5%D1%80.%D0%BA%D1%96%D0%BB%D1%82%D1%82%D0%B5%D1%80.%D1%81%D3%A9%D0%B7%D0%B1%D0%B5%D0%BD"
+    }
+  ]
+}
